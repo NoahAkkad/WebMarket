@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMarket", "WebMarket.csproj", "{9363A311-2912-4098-A0D9-2EE9C159D8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE151A2D-7822-4B5B-BA1B-4C45D429CFEE}
+	EndGlobalSection
+EndGlobal

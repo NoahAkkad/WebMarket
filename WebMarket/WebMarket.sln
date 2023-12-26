@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMarket", "WebMarket.csproj", "{9363A311-2912-4098-A0D9-2EE9C159D8BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMarketRazor_Temp", "..\WebMarketRazor_Temp\WebMarketRazor_Temp.csproj", "{5293D49B-90EC-4016-8442-0706EB502927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9363A311-2912-4098-A0D9-2EE9C159D8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5293D49B-90EC-4016-8442-0706EB502927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5293D49B-90EC-4016-8442-0706EB502927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5293D49B-90EC-4016-8442-0706EB502927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5293D49B-90EC-4016-8442-0706EB502927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

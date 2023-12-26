@@ -11,12 +11,10 @@
   <ItemGroup>
     <None Remove="Models\" />
     <None Remove="Data\" />
-    <None Remove="Pages\Category\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Data\" />
-    <Folder Include="Pages\Category\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
